@@ -1,5 +1,5 @@
 {
-    "version":[1,0,0],
+    "version":[1,0,1],
     "priority":10,
     "group":"米游币自动兑换",
     "dir":"myb_exchange",
