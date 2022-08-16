@@ -2,6 +2,7 @@
     "version":[1,0,0],
     "priority":10,
     "group":"米游币自动兑换",
+    "dir":"myb_exchange",
     "list":[{
         "title": "#添加米游币任务",
         "desc": "按提示添加自动兑换任务",
